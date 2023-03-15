@@ -1,5 +1,4 @@
-# Video captions module (In testing WIP)
-
+# Video captions
 
 ### Usage task commands
 ___
