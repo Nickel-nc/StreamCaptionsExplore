@@ -1,0 +1,6 @@
+# requires ffmpeg binaries in system variables Path
+
+transformers==4.11.2
+torch
+torchaudio
+pytube==12.1.0

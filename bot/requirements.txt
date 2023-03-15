@@ -1,0 +1,9 @@
+# configs
+python-dotenv==0.21.0
+
+# bot
+python-telegram-bot==13.14
+
+# utils
+ffmpeg-python==0.2.0
+pytube==12.1.0

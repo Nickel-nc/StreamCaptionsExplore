@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  bot:
+    build: .
+    command: python3 main.py
+    env_file:
+      - local.env
+    volumes:
+      - ./:/usr/src/app
+    restart: on-failure
